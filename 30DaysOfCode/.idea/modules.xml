@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/QueuesAndStacks/QueuesAndStacks.iml" filepath="$PROJECT_DIR$/QueuesAndStacks/QueuesAndStacks.iml" />
       <module fileurl="file://$PROJECT_DIR$/SocketMerchant/SocketMerchant.iml" filepath="$PROJECT_DIR$/SocketMerchant/SocketMerchant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_2dArrays/_2dArrays.iml" filepath="$PROJECT_DIR$/_2dArrays/_2dArrays.iml" />
     </modules>
   </component>
 </project>

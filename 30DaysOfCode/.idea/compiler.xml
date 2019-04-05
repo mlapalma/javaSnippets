@@ -6,12 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="_2dArrays" />
         <module name="LinkedList" />
         <module name="QueuesAndStacks" />
         <module name="SocketMerchant" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="_2dArrays" target="1.5" />
       <module name="BinarySearchTree" target="1.5" />
       <module name="LinkedList" target="1.8" />
       <module name="QueuesAndStacks" target="1.8" />
